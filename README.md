@@ -1,5 +1,3 @@
-# SimpleInterestShinyApp
-
 # Data-Products-Simple Interest Calculation Project and Slidify
 
 Coursera Course: Developing Data Products
