@@ -10,5 +10,5 @@ Instructions
 https://github.com/shantishakya/SimpleInterestShinyApp
 
 3. The presentation is available at:
-http://shantishakya.github.io/SimpleInterestShinyApp/index
+http://shantishakya.github.io/
 
